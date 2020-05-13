@@ -1,2 +1,0 @@
-# node-scheduled
-Begin app
